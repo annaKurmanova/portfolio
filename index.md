@@ -33,9 +33,6 @@ h2 {
   padding: 0 0 20px 0;
 }
 
-.buttons {
-  margin: 20px 0;
-}
 
 .btn {
   text-decoration: none;
@@ -60,7 +57,7 @@ h2 {
   <div class="wrap">
     <h1>Welcome to Anna Kurmanova's Portfolio website</h1>
     <h2>Thanks for your patience! This page is under construction...</h2>
-    <div class="buttons">
+    <div class="buttons" style="margin-top: 20px;">
       <a href="pdf/anna_kurmanova_resume.pdf" class="btn" download="Anna kurmanova Resume 2021">Download Resume</a>
       <a href="https://github.com/annaKurmanova" class="btn" target="_blank">Go to my Github</a>
       <a href="https://codepen.io/YourMuseAnya" class="btn" target="_blank">Go to my CodePen</a>
