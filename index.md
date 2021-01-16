@@ -46,8 +46,7 @@ h2 {
    </style>
   
   
-</head>
-<body>
+
   <div class="wrap">
     <h1>Welcome to Anna Kurmanova's Portfolio website</h1>
     <h2>Thanks for your patience! This page is under construction...</h2>
@@ -59,6 +58,3 @@ h2 {
     </div>
   </div>
  
-
-</body>
-</html>
