@@ -41,6 +41,18 @@ h2 {
   background: navy;
 }
 
+.buttons {
+  margin: 20px 0;
+  display: flex;
+  align-items: center;
+}
+
+@media(max-width: 426px) {
+  .buttons {
+    flex-direction: column;
+  }
+}
+
     
    </style>
   
