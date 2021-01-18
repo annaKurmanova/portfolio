@@ -17,7 +17,7 @@
       <a href="pdf/anna_kurmanova_resume.pdf" class="btn" download="Anna kurmanova Resume 2021">Download Resume</a>
       <a href="https://github.com/annaKurmanova" class="btn" target="_blank">Go to my Github</a>
       <a href="https://codepen.io/YourMuseAnya" class="btn" target="_blank">Go to my CodePen</a>
-      <a href="mailto:annakurmanova0508@gmail.com" class="btn">Send an E-mail</a>
+      <a href="mailto:annakurmanova0508@gmail.com" class="btn" target="_blank">Send an E-mail</a>
     </div>
   </div>
  
