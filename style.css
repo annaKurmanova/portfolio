@@ -56,4 +56,8 @@ h2 {
   background: navy;
 }
 
+.markdown-body p, .markdown-body blockquote, .markdown-body ul, .markdown-body ol, .markdown-body dl, .markdown-body table, .markdown-body pre {
+  display: none;
+}
+
  
