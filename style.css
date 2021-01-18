@@ -33,6 +33,8 @@ h2 {
 @media(max-width: 426px) {
   .buttons {
     flex-direction: column;
+    align-items: initial;
+    
   }
 }
 
